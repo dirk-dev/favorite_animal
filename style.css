@@ -1,0 +1,25 @@
+body {
+background-color: azure;
+}
+
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    background-color: white;
+    font-size: 4em;
+    }
+
+h2 {
+    font-size: 2em;
+    background-color: transparent;
+}    
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em
+}
+
+hr {
+    width: 81em;
+    float: left;
+}
